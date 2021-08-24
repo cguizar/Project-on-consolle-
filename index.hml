@@ -1,0 +1,17 @@
+<html>
+<head>
+<title><title>
+
+</head>
+<body>
+
+var first_name = "Ana";
+console.log(first_name);
+
+var second_name = "Maria";
+console.log(second_name);
+
+</body>
+
+
+</html>
